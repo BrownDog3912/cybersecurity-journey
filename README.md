@@ -9,16 +9,16 @@ This repository serves as my personal journal where I put my notes, projects, an
 ## Progress Checklist
 
 ### Fundamanetals
--[ ] Linux command line basics
--[ ] Networking basics
--[ ] Basic Python or Bash scripting
+-[] Linux command line basics
+-[] Networking basics
+-[] Basic Python or Bash scripting
 
 ### Tools
--[ ] Nmap
--[ ] Wireshark
--[ ] John the Ripper/Hashcat
--[ ] Burp Suite
--[ ] Metasploit
+-[] Nmap
+-[] Wireshark
+-[] John the Ripper/Hashcat
+-[] Burp Suite
+-[] Metasploit
 
 ## Notes on Sharing
 
