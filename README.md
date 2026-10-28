@@ -10,19 +10,19 @@ This repository serves as my personal journal where I put my notes, projects, an
 
 ## Progress Checklist
 
-    ### Fundamanetals
+### Fundamanetals
 - [ ] Linux command line basics
 - [ ] Networking basics
 - [ ] Basic Python or Bash scripting
 
-      ### Tools
+### Tools
 - [ ] Nmap
 - [ ] Wireshark
 - [ ] John the Ripper/Hashcat
 - [ ] Burp Suite
 - [ ] Metasploit
 
-      ### Learning Platforms
+### Learning Platforms
 - [ ] TryHackMe: Pre Security path
 - [ ] TryHackMe: Complete Beginner path
 - [ ] OverTheWire: Bandit
