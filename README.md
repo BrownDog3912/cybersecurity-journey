@@ -3,7 +3,9 @@ My journey into cybersecurity. I'm learning from scratch, building practical ski
 This repository serves as my personal journal where I put my notes, projects, and projects as I develop my skills.
 
 **Started:** October 2026
+
 **Setup:** Thinkpad L14 Gen 6 with Fedora COSMIC
+
 **Goal:** Learn the fundamentals, then decide between offensive and defensive paths.
 
 ## Progress Checklist
