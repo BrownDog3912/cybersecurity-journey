@@ -20,6 +20,13 @@ This repository serves as my personal journal where I put my notes, projects, an
 - [ ] Burp Suite
 - [ ] Metasploit
 
+  ### Learning Platforms
+- [ ] TryHackMe: Pre Security path
+- [ ] TryHackMe: Complete Beginner path
+- [ ] OverTheWire: Bandit
+- [ ] Hack The Box
+
+
 ## Notes on Sharing
 
 I don't publish flags or answers for active challenges.
