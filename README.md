@@ -11,7 +11,7 @@ This repository serves as my personal journal where I put my notes, projects, an
 ## Progress Checklist
 
 ### Fundamanetals
-- [x ] Linux command line basics
+- [x] Linux command line basics
 - [ ] Networking basics
 - [ ] Basic Python or Bash scripting
 
