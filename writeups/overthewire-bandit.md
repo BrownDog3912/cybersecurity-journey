@@ -5,7 +5,7 @@ I do not paste any passwords from levels in here.
 
 
 ## Levels 0-5
- ### What I did
+### What I did
  - Connected over SSH on port 2220
  - Read files that contained spaces in the filename
  - Read files that started with a -
@@ -17,5 +17,5 @@ I do not paste any passwords from levels in here.
 - Wildcards like `./*` act on many files at once
 - `/home` holds each user's home directory, and `~` is a shortcut to mine
 
-  ### Mistakes
+### Mistakes
   - Ran cat ./* on binary files and messed up my terminal. I fixed it with `reset` 
