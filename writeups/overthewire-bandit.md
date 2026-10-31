@@ -11,7 +11,7 @@ I do not paste any passwords from levels in here.
  - Read files that started with a -
  - Used file to identify what a file contains before I open it
 
-   ### What I learned
+### What I learned
 - `file` identifies what a file contains before I open it
 - `./` and `--` stop a leading dash being read as an option
 - Wildcards like `./*` act on many files at once
