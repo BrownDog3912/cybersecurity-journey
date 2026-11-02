@@ -18,3 +18,4 @@ My first steps learning Python, mainly as a foundation for cybersecurity scripti
 - Lists and dictionaries
 - Functions
 - Reading and writing files
+| `greeter.py` | Asks for a name and prints a greeting |
