@@ -12,6 +12,8 @@ My first steps learning Python, mainly as a foundation for cybersecurity scripti
 |------|--------------|
 | `hello.py` | My first script, prints a greeting |
 | `greeter.py` | Asks for a name and prints a greeting |
+| `simplecalculator.py | Asks for two numbers and adds them |
+
 
 ## What I am learning
 - Variables, strings, and numbers
