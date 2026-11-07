@@ -4,7 +4,7 @@ This repository serves as my personal journal where I put my notes, projects, an
 
 **Started:** October 2026
 
-**Setup:** Thinkpad L14 Gen 6 with Fedora COSMIC
+**Setup:** Thinkpad L14 Gen 6 with NixOS
 
 **Goal:** Learn the fundamentals, then decide between offensive and defensive paths.
 
